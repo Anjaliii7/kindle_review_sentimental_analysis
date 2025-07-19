@@ -1,6 +1,6 @@
 # 📚 Kindle Review Sentiment Analysis using Word2Vec & ML Algorithms
 
-## 📌 Project Summary
+## Project Summary
 
 This project aims to perform sentiment analysis on Kindle product reviews using various Natural Language Processing (NLP) techniques and machine learning models. The goal is to predict the **sentiment (positive or negative)** of a review based on the **reviewText** field.
 
